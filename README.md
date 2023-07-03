@@ -10,13 +10,13 @@ Currently, I'm  studying <b>Full stack development course in Joining The Dots Bo
 
 I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in the year of 2022.
 
-- 🌱  I’m currently learning and  I’m looking for a job.
+- 🌱  I’m currently learning and  I’m looking
 
 - 🌱 I’m currently learning **full stack develepment**
 
 - 📫 How to reach me **athmakuruharshitha@gmail.com**
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">Let's get connected:</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Harshitha-reddy88)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athmakuru-harshitha-1378b8251/)
@@ -24,13 +24,13 @@ I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in t
 
 <h3 align="left">Languages and Tools:</h3>
 
-  Languages - **HTML, CSS, JavaScript, Java<br/>
+   - :dart:Languages - **HTML, CSS, JavaScript, Java<br/>
   
-  FrameWork/Libraries - **React.js<br/>
+   - :dart:FrameWork/Libraries - **React.js<br/>
   
-  Databases/Backend -Mysql,DBMS<br/>
+   - :dart:Databases/Backend -Mysql,DBMS<br/>
   
-  Others -PYTHON
+  - :dart:Others -PYTHON
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" 
