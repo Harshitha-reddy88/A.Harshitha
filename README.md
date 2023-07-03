@@ -12,8 +12,9 @@ I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in t
 
 - 🌱 I’m currently learning **full stack develepment**
 
-
 - 📫 How to reach me **athmakuruharshitha@gmail.com**
+
+- My Resume : <a href="https://docs.google.com/document/d/1iRJ2CQJGWP9VCCmQv7mDzg3bMBXyA8-wKJg79nIdu_4/edit?usp=sharing">VIEW</a>
 
 <h2 align="left">Let's get connected:</h2>
 
