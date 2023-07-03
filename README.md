@@ -16,11 +16,11 @@ I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in t
 
 - 📫 How to reach me **athmakuruharshitha@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/athmakuru harshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athmakuru harshitha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/athmakuru harshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="athmakuru harshitha" height="30" width="40" /></a>
-</p>
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Harshitha-reddy88)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athmakuru-harshitha-1378b8251/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](athmakuruharshitha@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -51,7 +51,6 @@ I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in t
          width="40" height="40"/> 
   </a> 
 
-  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" 
       height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
@@ -66,15 +65,6 @@ I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in t
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  </a>
-
-  
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitha-reddy88&show_icons=true&locale=en&layout=compact" alt="harshitha-reddy88" /></p>
-
- 
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitha-reddy88&show_icons=true&locale=en" 
-     alt="harshitha-reddy88" /></p>
 
   
 </p>
