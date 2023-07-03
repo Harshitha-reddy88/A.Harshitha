@@ -10,9 +10,8 @@ Currently, I'm  studying <b>Full stack development course in Joining The Dots Bo
 
 I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in the year of 2022.
 
-- 🌱  I’m currently learning and  I’m looking
-
 - 🌱 I’m currently learning **full stack develepment**
+
 
 - 📫 How to reach me **athmakuruharshitha@gmail.com**
 
